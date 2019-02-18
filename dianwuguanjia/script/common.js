@@ -218,17 +218,14 @@ function openPicView(imgUrl)
 
 
 
-/*$(".aui-title").click(function()
+$(".aui-title").click(function()
 {
     window.location.reload();
-});*/
+});
 
 
 
-
-/*
 $("body").append("<div style='height:160px;width:100px;background: #000;position: relative;z-index:100000;' onclick='window.location.reload();'>刷新</div>");
-*/
 
 
 
